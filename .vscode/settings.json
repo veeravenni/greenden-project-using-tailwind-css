@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.donotVerifyTags": false,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.NoBrowser": true,
+    "editor.defaultFormatter": "ritwickdey.LiveServer"
+}
